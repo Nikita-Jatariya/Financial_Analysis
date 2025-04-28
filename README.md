@@ -11,6 +11,8 @@ This project presents a comprehensive Financial Data Analysis solution built usi
 
 ## Dataset Used
 https://github.com/Nikita-Jatariya/Financial_Analysis_Dashboard/blob/main/DataSet.xlsx
+![Screenshot (63)](https://github.com/user-attachments/assets/c32a24f1-edec-4457-b349-bebd24f6475d)
+
 
 ## KPIs
 -Revenue Analysis: What is the trend of total revenue over the past quarters?
