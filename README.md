@@ -31,7 +31,7 @@ https://github.com/Nikita-Jatariya/Financial_Analysis/blob/main/Financial_Analys
 ![image](https://github.com/user-attachments/assets/2bb087a9-8648-407c-98cc-a9dea383ca1f)
 
 
-##Tools and Technologies
+## Tools and Technologies
 -Power BI Desktop
 -Power Query
 -Excel (Data Source)
