@@ -1,4 +1,4 @@
-# Financial_Analysis_Dashboard
+# Financial_Analysis_Dashboard (Interactive Dashboard using Power BI)
 ## Project Description
 This project presents a comprehensive Financial Data Analysis solution built using Microsoft Power BI. It focuses on extracting, analyzing, and visualizing key financial insights from raw datasets to answer specific business queries and support strategic decision-making. The project demonstrates a practical application of Power BI’s powerful data modeling, visualization, and reporting capabilities.
 
