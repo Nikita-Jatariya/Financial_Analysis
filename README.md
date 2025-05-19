@@ -11,8 +11,6 @@ This project presents a comprehensive Financial Data Analysis solution built usi
 
 ## Dataset Used
 https://github.com/Nikita-Jatariya/Financial_Analysis_Dashboard/blob/main/DataSet.xlsx
-![Screenshot (63)](https://github.com/user-attachments/assets/c32a24f1-edec-4457-b349-bebd24f6475d)
-
 
 ## KPIs
 -Revenue Analysis: What is the trend of total revenue over the past quarters?
@@ -29,7 +27,9 @@ https://github.com/Nikita-Jatariya/Financial_Analysis_Dashboard/blob/main/DataSe
 -Created multiple dashboards featuring dynamic slicers, filters, and drill-down options: Visuals include line charts, bar graphs, pie charts, KPIs to provide holistic insights.
 
 ## Dashboard
-https://github.com/Nikita-Jatariya/Financial_Analysis_Dashboard/blob/main/Financial_Analysis_Dashboard.png
+https://github.com/Nikita-Jatariya/Financial_Analysis/blob/main/Financial_Analysis_Dashboard.png
+![image](https://github.com/user-attachments/assets/2bb087a9-8648-407c-98cc-a9dea383ca1f)
+
 
 ##Tools and Technologies
 -Power BI Desktop
